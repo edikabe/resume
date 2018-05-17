@@ -1,12 +1,12 @@
 
 === Julien Glotain
 
-Senior Agile Software Developer
-10 ans d'expérience
+Senior Agile Software Developer +
+_10 ans d'expérience_
 
 jglotain@gmail.com +
 https://github.com/julglotain[github.com/julglotain] +
-cv: https://julglotain.github.io/resume.pdf[pdf] https://julglotain.github.io/resume.adoc[adoc]
+cv: https://julglotain.github.io/resume.pdf[pdf], https://julglotain.github.io/resume.adoc[adoc]
 
 // image:http://static8.viadeo-static.com/YKn2QeUFhEeKz-eYEZnZI7hOeaA=/140x140/member/0022e2l5m1qk4jhb?ts=1282990254000["Julien Glotain",100,100]
 
@@ -14,7 +14,7 @@ cv: https://julglotain.github.io/resume.pdf[pdf] https://julglotain.github.io/re
 Craftsmanship
 -------------
 
-Conception|Développement|Architecture|Code Review|Refactoring|Analyse fonctionnelle|Industrialisation|Releasing|Intégration|Automatisation des tests|Dashboarding|Ops 
+Conception-Développement-Architecture-CodeReview-Refactoring-AnalyseFonctionnelle-Industrialisation-Releasing-Intégration-AutomatisationDesTests-Dashboarding-Ops 
 
 [[competences_tech]]
 Mes compétences techniques
