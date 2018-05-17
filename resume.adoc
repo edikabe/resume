@@ -7,7 +7,7 @@ _10 ans d'expérience_
 
 icon:envelope[] jglotain@gmail.com +
 icon:github[] https://github.com/julglotain[github.com/julglotain] +
-icon:file-text[] https://julglotain.github.io/resume.pdf[pdf], https://julglotain.github.io/resume.adoc[adoc]
+icon:file-text[] https://julglotain.github.io/resume/resume.pdf[pdf], https://julglotain.github.io/resume/resume.adoc[adoc]
 
 // image:http://static8.viadeo-static.com/YKn2QeUFhEeKz-eYEZnZI7hOeaA=/140x140/member/0022e2l5m1qk4jhb?ts=1282990254000["Julien Glotain",100,100]
 
@@ -45,11 +45,18 @@ Formation
 ---------
 
 * En Cours :  Formation pour le titre Concepteur - Architecte SI du CNAM Nantes
-* 2014 : Formations Certification Scrum Developer & Git, Zenika Nantes
+* 2014 : Formations Scrum Developer & Git, Zenika Nantes
 * 2010 : Formation Spring Core, Nantes
 * 2007 : Semestre en L3 Info, NEWI University, Pays de Galles
 * 2007 : BTS Informatique De Gestion, La Joliverie, Nantes
 
+[[certifications]]
+Certifications
+-------------- 
+
+* 2018: https://www.coursera.org/account/accomplishments/records/P8WG3VSD96VJ[Getting Started with Google Kubernetes Engine]
+* 2014: Certification Scrum Developer & Git, Zenika Nantes
+* 2010: Certification Spring Core
 
 [[projets]]
 Projets
