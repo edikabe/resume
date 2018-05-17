@@ -1,0 +1,219 @@
+
+=== Julien Glotain
+
+Senior Agile Developer + 
+10 ans d'expérience
+
+jglotain@gmail.com +
+github.com/julglotain
+
+// image:http://static8.viadeo-static.com/YKn2QeUFhEeKz-eYEZnZI7hOeaA=/140x140/member/0022e2l5m1qk4jhb?ts=1282990254000["Julien Glotain",100,100]
+
+[[craftsmanship]]
+Craftsmanship
+-------------
+
+Conception|Développement|Architecture|Code Review|Refactoring|Analyse fonctionnelle|Industrialisation|Releasing|Intégration|Automatisation des tests|Dashboarding|Ops 
+
+[[competences_tech]]
+Mes compétences techniques
+--------------------------
+
+=== Langages & DSL
+Jvm, Js/Node, Web, Html5, Shell, Go (débutant)
+
+=== Outils
+IntelliJ, Git, Maven3, Jenkins, Gitlab, Docker, Slack, Jira, Sonar, NodeJs, Docker, Vagrant, Ansible, Dashing
+
+=== Frameworks
+Java: Java8/streams, Spring (Boot, Core, Security, ..), JaxRs, Servlet3, Jpa
+FrontEnd & Mobile: Angular, ChaplinJs, Phonegap, SenchaTouch
+
+=== Bases de données
+MongoDB, Elasticsearch, MySQL, Oracle, SqlServer
+
+=== Méthodo
+Scrum, Continuous delivery, BDD, TDD, FeatureFlipping
+
+=== Systèmes d'exploitation
+OS X, Linux, Windows, Docker
+
+[[formation]]
+Formation
+---------
+
+* En Cours :  Formation pour le titre Concepteur - Architecte SI du CNAM Nantes
+* 2014 : Formations Certification Scrum Developer & Git, Zenika Nantes
+* 2010 : Formation Spring Core, Nantes
+* 2007 : Semestre en L3 Info, NEWI University, Pays de Galles
+* 2007 : BTS Informatique De Gestion, La Joliverie, Nantes
+
+
+[[projets]]
+Projets
+-------
+
+*Voyages SNCF Technologies*;  _Septembre 2015 -> Aujourd'hui_
+
+*Projet MPD V2* - Lead tech - 8 personnes, 7 mois
+
+Refonte du Middleware MPD dans le cadre de la distribution billetique NFC pour RATP sous forme d'architecture en microservices
+
+* Etude et chiffrage de mise en place de stack sous Swarm / Kubernetes / Vm classiques
+* Mise en place infra et liaison avec les ops
+* Mise en place de la chaine d'industrialisation et de la pratique du continuous delivery
+* Développement des nouvelles US, coding des exigences sous forme BDD
+
+*Tools*: SpringBoot, Redis, MongoDB, Katana, Elasticsearch, Kibana, Cucumber, Jira, Gitlab, Jenkin, Docker
+
+==== _Projet MPD - Lead tech - 8 personnes_ 18 mois
+
+Middleware d'orchestration de vente et distribution de billets TER
+
+* Scrum, sprints de 2 semaines, assister aux cérémonies, maintenance du backlog technique
+* Mise en place infra et liaison avec les ops
+* Mise en place de la chaine d'industrialisation et de la pratique du continuous delivery
+* Développement des nouvelles US, coding des exigences sous forme BDD
+
+*Tools*: SpringBoot, Jax-RS, MongoDB, Katana, Dashing, Elasticsearch, Kibana, Cucumber, Jira, Gitlab, Jenkins, Haproxy, Docker 
+
+==== _Projet BUS - Lead Developer - 5 personnes_ 3 mois
+
+Nouvelle descente dédiée BUS sur voyages-sncf.com
+
+* Développement des nouvelles US, coding des exigences sous forme BDD
+* Assurer la première MEP sur domaine voyages-sncf.com
+
+*Tools*: Angular, SpringBoot, Jax-RS, Katana, Apache2, Cucumber, Jira, Gitlab, Jenkins
+
+=== Crédit Agricole Consumer Finance _fév 2014 -> août 2015_
+
+==== Projet CSA, Ingénieur étude et développement JavaEE/Js/Mobile (8 personnes) _8 mois_
+
+En tant qu’ingénieur d’études, réalisation d’études et conception de capacités techniques (composants, enrichissement socles techniques) pour les développeurs au sein du groupe CA-CF.
+
+* Réalisation de capacités techniques pour les études
+* Etudes de faisabilité et réalisation de POCs
+* Evolution de socles techniques
+* Conception et développement d’une solution MAM pour la distribution des applications mobiles corporate, tests d’intégration
+* Conception et développement d’une solution d’authentification centralisée pour offrir une façade simplifiée sur les différents référentiels utilisateurs
+* Conception et développement d’une solution d’authentification via un pavé numérique
+* Conception et développement d’un plugin Cordova (iOS, Android) pour auto update des apps mobiles depuis ma solution MAM
+* Maintenance de l'usine logicielle 
+* Documentation de conception et d’architecture
+
+*Tools*: Java EE, Angular, RequireJS, Maven, Gulp, Git, Svn, Scrum, Jira, XWiki, Jenkins, script Groovy, Sonar, Spring (Mvc, Security, Java Config), CXF, API Servlet3, Tomcat, Jboss, Infinispan, RHEL
+
+==== CreditPlus (filiale CA-CF Allemagne), Lead developer (3 personnes) _4 mois_
+
+Projet d’application mobile à destination des vendeurs dans les AppleStore en Allemagne, ayant pour but l’aide à la saisie de contrat de financement. L’application permet également la signature électronique des documents du contrat produit, ainsi que le recueil des documents légaux, tels que la carte d’identité, par exemple.
+
+* Déplacements dans les filiales de Stuttgart et Francfort pour le recueil des besoins
+* Conception et développement
+* Evolution de notre DSL pour aide au crawling du portail CreditPlus (voir projet AgosDucato pour plus de détails)
+* Suivi des sprints de développements et alimentation du backlog
+
+*Tools*: Jax-RS, CXF, Spring Security, client OAuth, Jsoup, Quicksign, Sencha Touch, Phonegap, Maven, Git, Tomcat, AWS EC2
+
+==== AgosDucato (filiale CA-CF italienne), Lead developer (3 personnes) _6 mois_
+
+Projet d’application mobile à destination des vendeurs dans les magasins partenaires de la société de crédit. Elle a pour finalité la saisie de contrats de financement, la prise de vues des pièces jointes légales accompagnant le contrat tels que carte d’identité ou passeport, ainsi que la signature électronique du contrat.
+
+* Déplacements chez AgosDucato à Milan pour le recueil des besoins
+* Conception et développements
+* Conception d’une API Web pour consommation par les apps mobiles, AgosDucato n’ayant pas les moyens d’offrir une API, nous en avons conçu une au-dessus de leur portail de vente, permettant ainsi d’offrir un réel flow de saisie de données exploitables par les devices mobiles tablettes
+* Création d’un DSL au-dessus d’Xml pour l’aide au crawling du portail AgosDucato
+* Suivi des sprints de développements et alimentation du backlog
+
+*Tools*: Jax-RS, CXF, Spring Security, client OAuth, Jsoup, Quicksign, Sencha Touch, Phonegap, Maven, Git, Tomcat, AWS EC2
+
+=== Soletanche, Lead developer (10 personnes) _juin 2013 –> fév 2014_
+
+Projet mobile permettant aux chefs de chantiers la saisie des différents indicateurs de productivité et de rendements machines via leur tablette, de façon offline. L’autre partie consistait à livrer un portail permettant l’administration du référentiel métier et une section offrant l’exploitation des indicateurs via l’affichage de reporting riches et dynamiques. Le tout en Single-Page-App.
+
+* Définition de l’architecture front et backend
+* Conception et développements
+* API de synchro on/offline
+* Batch agrégation des données des chantiers
+* Création d'un outil de reporting dynamique à critères multiples
+* Formation et support aux développeurs
+* Transfert de compétences techniques et support au client en fin de projet
+
+*Tools*: Spring (MVC, Security), Hibernate, Ldap, SqlServer, ChaplinJS, Phonegap, Flot charts JS, CSS3, PureUI, Modernizr, RequireJS,
+Maven, Grunt, IAAS Azure, Clearcase, Clearquest
+
+=== Groupe Vinci, Developer (2 personnes), _fév 2013 –> mai 2013_
+
+Projet POC VinciMaps, application mobile pour aider les salariés de Vinci à déterminer la position et aider à se localiser vis-à-vis des différents chantiers du groupe. Elle donne également des informations utiles tels que les contacts, des prises de vues des chantiers …
+
+* Définition de l’architecture front et backend
+* Développement de pocs
+* Encadrement stagiaire
+
+*Tools*: Spring, Ldap, JaxRs, Soap, API GoogleMaps, BackboneJS, Phonegap, Flot charts JS
+
+=== Vinci Energies, Developer (10 personnes), _jan 2012 –> fév 2013_
+
+Projet de portail QUARTZI, permettant le suivi des affaires du groupe, la gestion RH et facilities. Tournant anciennement sur progiciel Oracle, refonte du backend suite au passage à SAP via connecteurs JCA et consommation RFC SAP.
+
+* Développement front et backend
+* Conception de composants jQuery UI, mise en place du module pattern
+* Mise en place de tests fonctionnels automatisés avec Selenium
+* Scripts pour automatisation packaging et releasing
+
+*Tools*: Java JEE, Javascript, Spring, Struts, JCA, RFC Sap,  Ldap, Hibernate, Jsp2, jQuery, Maven, Websphere, Selenium, Jenkins, Sonar
+
+=== Cegelec, Developer (3 à 6 personnes) _juil 2011 –> déc 2011_
+
+Projet TPP, TMA sur un portail permettant le suivi des affaires, de la prospection jusqu’à la réalisation de la vente et les CA des différentes BU du groupe.
+
+* Développeur Java JEE (équipe de 10 à 16 personnes)
+* Développement front et backend
+* Développement d’évolutions diverses et corrections d’anomalies
+* Réalisation d’un module permettant la visualisation de l’état d’avancement d’une affaire et l’envoi de notifications automatiques sur définition de critères précis
+* Documentation
+
+*Tools*: Java JEE, Javascript, Spring (MVC, Security), JDBC, Ldap, SqlServer, JSP, jQuery, Maven, Tomcat
+
+=== FT-Orange, Developer (8 personnes) _fév 2011 –> juin 2011_
+
+Développeur sur le projet EOD, RIA (Flex4) de type WYSIWYG de création et édition d’étiquettes descriptives pour les produits vendus dans les boutiques Orange.
+
+* Développement front et backend
+* Développement de composants Flex pour représenter les étiquettes
+* Tests d’intégration et d’impression
+
+*Tools*: Java JEE, Javascript, Flex4 (AS3), jQuery UI, PureMVC, Spring MVC, Security, JSP, JDBC, Ldap, SqlServer, Maven, Glassfish, Clearcase, Clearquest
+
+=== Credit Agricole, Developer (10 personnes)  _juil 2010 –> janv 2011_
+
+Développeur sur le projet de portail AVL PREDICA pour la gestion des contrats assurance-vie.
+
+* Développeur Java JEE (équipe de 10 personnes)
+* Développement front et backend
+* Développement d’évolutions diverses
+* Documentation
+
+*Tools*: Java JEE, Javascript, Spring MVC, Spring batch, JSP, Hibernate, WebServices SOAP, Axis, JAXB, Ldap, SqlServer, Maven, Glassfish AS, Clearcase, Clearquest
+
+=== Accenture Technology Solutions, Developer _mars 2010 – juin 2010_
+
+Développeur sur projet MAESTRO, une application interne de suivi des staffing et métriques projets.
+
+* Développeur Java JEE (équipe de 3 personnes)
+* Développement front et backend
+* Développement d’évolutions diverses et corrections d’anomalies
+* Documentation
+
+*Tools*: Java JEE, Javascript, Spring MVC, WebFlow, SqlServer, jQuery, Maven, Glassfish, Clearcase, Clearquest
+
+=== ERDF, Developer, Responsable TMA (3 personnes) _fév 2008 – mars 2010_
+
+Développeur et responsable de TMA pour ERDF, un portail d’administration (Weblogic) de référentiels et de reporting des pointages des flux des producteurs et consommateurs du réseau, intégration des flux métiers de différentes sources grâce à l’EAI Webmethods.
+
+* Développeur Java JEE (équipe de 3 personnes)
+* Développement front et backend
+* Développement d’évolutions diverses et corrections d’anomalies
+* Documentation
+
+*Tools*: Java JEE, Javascript, Struts, JSP, EJB2, JDBC, Ldap, Oracle, PL SQL, Shell, Ant, Weblogic, EAI Webmethods, SVN, Mantis
