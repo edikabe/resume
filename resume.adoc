@@ -1,11 +1,12 @@
 
 === Julien Glotain
 
-Senior Agile Developer + 
+Senior Agile Software Developer
 10 ans d'expérience
 
 jglotain@gmail.com +
-github.com/julglotain
+https://github.com/julglotain[github.com/julglotain] +
+cv: https://julglotain.github.io/resume.pdf[pdf] https://julglotain.github.io/resume.adoc[adoc]
 
 // image:http://static8.viadeo-static.com/YKn2QeUFhEeKz-eYEZnZI7hOeaA=/140x140/member/0022e2l5m1qk4jhb?ts=1282990254000["Julien Glotain",100,100]
 
