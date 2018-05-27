@@ -1,4 +1,5 @@
 #!/bin/bash
 
-asciidoctor -b html5 resume.adoc -o index.html
-asciidoctor-pdf  resume.adoc -o resume.pdf
+docker build -t julglotain/resume:latest .
+echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+docker push julglotain/resume:latest
