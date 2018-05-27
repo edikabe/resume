@@ -15,7 +15,7 @@ icon:file-text[] link:./resume.pdf[pdf], link:./resume.adoc[adoc]
 Craftsmanship
 -------------
 
-Conception-Développement-Architecture-CodeReview-Refactoring-AnalyseFonctionnelle-Industrialisation-Releasing-Intégration-AutomatisationDesTests-Dashboarding-Ops 
+Conception-Développement-Architecture-CodeReview-Refactoring-AnalyseFonctionnelle-Industrialisation-Releasing-Intégration-AutomatisationDesTests-Dashboarding-Ops
 
 [[competences_tech]]
 Mes compétences techniques
@@ -52,7 +52,7 @@ Formation
 
 [[certifications]]
 Certifications
--------------- 
+--------------
 
 * 2018: https://www.coursera.org/account/accomplishments/records/P8WG3VSD96VJ[Getting Started with Google Kubernetes Engine]
 * 2014: Certification Scrum Developer & Git, Zenika Nantes
@@ -84,7 +84,7 @@ Middleware d'orchestration de vente et distribution de billets TER
 * Mise en place de la chaine d'industrialisation et de la pratique du continuous delivery
 * Développement des nouvelles US, coding des exigences sous forme BDD
 
-*Tools*: SpringBoot, Jax-RS, MongoDB, Katana, Dashing, Elasticsearch, Kibana, Cucumber, Jira, Gitlab, Jenkins, Haproxy, Docker 
+*Tools*: SpringBoot, Jax-RS, MongoDB, Katana, Dashing, Elasticsearch, Kibana, Cucumber, Jira, Gitlab, Jenkins, Haproxy, Docker
 
 ==== _Projet BUS - Lead Developer - 5 personnes_ 3 mois
 
@@ -108,7 +108,7 @@ En tant qu’ingénieur d’études, réalisation d’études et conception de c
 * Conception et développement d’une solution d’authentification centralisée pour offrir une façade simplifiée sur les différents référentiels utilisateurs
 * Conception et développement d’une solution d’authentification via un pavé numérique
 * Conception et développement d’un plugin Cordova (iOS, Android) pour auto update des apps mobiles depuis ma solution MAM
-* Maintenance de l'usine logicielle 
+* Maintenance de l'usine logicielle
 * Documentation de conception et d’architecture
 
 *Tools*: Java EE, Angular, RequireJS, Maven, Gulp, Git, Svn, Scrum, Jira, XWiki, Jenkins, script Groovy, Sonar, Spring (Mvc, Security, Java Config), CXF, API Servlet3, Tomcat, Jboss, Infinispan, RHEL

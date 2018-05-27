@@ -7,7 +7,7 @@ RUN gem install asciidoctor \
 RUN mkdir /tmp/static-html-directory
 WORKDIR /tmp/static-html-directory
 
-COPY resume.adoc .
+COPY ./src/resume.adoc .
 
 RUN asciidoctor -b html5 resume.adoc -o index.html
 RUN asciidoctor-pdf  resume.adoc -o resume.pdf
