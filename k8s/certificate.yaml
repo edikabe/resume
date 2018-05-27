@@ -1,0 +1,17 @@
+---
+apiVersion: certmanager.k8s.io/v1alpha1
+kind: Certificate
+metadata:
+  name: cv-julienglotain-fr
+  namespace: web
+spec:
+  secretName: cv.julienglotain.fr-tls
+  issuerRef:
+    name: letsencrypt-issuer
+    kind: ClusterIssuer
+  commonName: cv.julienglotain.fr
+  acme:
+    config:
+    - http01: {}
+      domains:
+      - cv.julienglotain.fr

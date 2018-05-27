@@ -1,0 +1,23 @@
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: web-resume
+  namespace: web
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    kubernetes.io/tls-acme: 'true'
+spec:
+  rules:
+  - host: cv.julienglotain.fr
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: web-resume
+          servicePort: 80
+  tls:
+    - secretName: cv.julienglotain.fr-tls
+      hosts:
+        - cv.julienglotain.fr
+    

@@ -1,0 +1,20 @@
+---
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: web-resume
+  namespace: web
+spec:
+  selector:
+    matchLabels:
+      app: web-resume
+  template:
+    metadata:
+      labels:
+        app: web-resume
+    spec:
+      containers:
+      - name: web-resume
+        image: julglotain/resume:latest
+        ports:
+        - containerPort: 80
