@@ -1,4 +1,5 @@
 :icons: font
+:google-analytics-account: UA-119898143-1
 
 === Julien Glotain
 
