@@ -30,7 +30,8 @@ IntelliJ, Git, Maven3, Jenkins, Gitlab, Docker, Slack, Jira, Sonar, NodeJs, Dock
 
 === Frameworks
 Java: Java8/streams, Spring (Boot, Core, Security, ..), JaxRs, Servlet3, Jpa
-FrontEnd & Mobile: Angular, ChaplinJs, Phonegap, SenchaTouch
+
+FrontEnd & Mobile: VueJS(Vuex), Angular, ChaplinJs, Phonegap, SenchaTouch
 
 === Bases de données
 MongoDB, Elasticsearch, MySQL, Oracle, SqlServer
@@ -45,8 +46,8 @@ OS X, Linux, Windows, Docker
 Formation
 ---------
 
-* En Cours :  Formation pour le titre Concepteur - Architecte SI du CNAM Nantes
 * 2014 : Formations Scrum Developer & Git, Zenika Nantes
+* 2012 : Formation pour le titre Concepteur - Architecte SI du CNAM Nantes
 * 2010 : Formation Spring Core, Nantes
 * 2007 : Semestre en L3 Info, NEWI University, Pays de Galles
 * 2007 : BTS Informatique De Gestion, La Joliverie, Nantes
@@ -63,7 +64,7 @@ Certifications
 Projets
 -------
 
-*Voyages SNCF Technologies*;  _Septembre 2015 -> Aujourd'hui_
+=== Voyages SNCF Technologies _Septembre 2015 -> Juillet 2018_
 
 *Projet MPD V2* - Lead tech - 8 personnes, 7 mois
 
