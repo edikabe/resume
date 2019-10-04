@@ -16,7 +16,7 @@ icon:file-text[] link:./resume.pdf[pdf], link:./resume.adoc[adoc]
 Craftsmanship
 -------------
 
-Conception-Développement-Architecture-CodeReview-Refactoring-AnalyseFonctionnelle-Industrialisation-Releasing-Intégration-AutomatisationDesTests-Dashboarding-Ops
+Conception-Développement-Architecture-QA-Industrialisation-Releasing-Intégration-Dashboarding
 
 [[competences_tech]]
 Mes compétences techniques
@@ -26,7 +26,10 @@ Mes compétences techniques
 Jvm, Js/Node, Web, Html5, Shell, Go (débutant)
 
 === Outils
-IntelliJ, Git, Maven3, Jenkins, Gitlab, Docker, Slack, Jira, Sonar, NodeJs, Docker, Vagrant, Ansible, Dashing
+IntelliJ, Git, Maven3, Jenkins, Gitlab, Slack, Jira, Sonar, NodeJs
+
+=== OPS
+Docker, Kubernetes, Vagrant, Ansible, Dashing, Kibana, Grafana
 
 === Frameworks
 Java: Java8/streams, Spring (Boot, Core, Security, ..), JaxRs, Servlet3, Jpa
@@ -40,7 +43,7 @@ MongoDB, Elasticsearch, MySQL, Oracle, SqlServer
 Scrum, Continuous delivery, BDD, TDD, FeatureFlipping
 
 === Systèmes d'exploitation
-OS X, Linux, Windows, Docker
+OS X, Linux, Windows
 
 [[formation]]
 Formation
